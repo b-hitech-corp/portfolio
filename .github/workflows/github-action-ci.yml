@@ -1,0 +1,4 @@
+name: NextJs app deployment to EKS
+on:
+	push:
+		branches:
